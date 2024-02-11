@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="core.my_site.views.*" />
+          <option value="companyapi.api.urls.CompanyViewSet" />
+          <option value="books.book_api.views.book_api" />
+          <option value="books.book_api.urls.book_api" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
